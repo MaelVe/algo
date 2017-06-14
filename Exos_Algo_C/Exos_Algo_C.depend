@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473248277 source:p:\2eme année\algoversc\exos_algo_c\exoalgoc.c
+	<stdio.h>
+	<stdlib.h>
+
+1446671344 source:p:\2eme année\algoversc\exos_algo_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1473250729 source:p:\2eme année\algoversc\exos_algo_c\tarifs.c
+	<stdio.h>
+	<stdlib.h>
+
